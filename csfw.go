@@ -1,4 +1,4 @@
-//go:generate go build -a github.com/corestoreio/csfw/tools/csMake
+//go:generate go build -a github.com/corestoreio/csfw/codegen/csMake
 //go:generate ./csMake
 //go:generate rm ./csMake
 //go:generate go test ./...
